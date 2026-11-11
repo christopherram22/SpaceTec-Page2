@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <g transform="rotate(45 100 100)" stroke="#14243B" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- llama -->
+    <path d="M84 132 C76 155 88 172 100 192 C112 172 124 155 116 132 Z" fill="#F16B2F"/>
+    <path d="M93 134 C90 150 96 160 100 170 C104 160 110 150 107 134 Z" fill="#F7A23B" stroke="none"/>
+    <!-- aletas -->
+    <path d="M80 98 C62 104 52 124 50 144 L82 126 Z" fill="#F2BC27"/>
+    <path d="M120 98 C138 104 148 124 150 144 L118 126 Z" fill="#F2BC27"/>
+    <!-- cuerpo -->
+    <path d="M100 14 C128 42 134 88 122 134 L78 134 C66 88 72 42 100 14 Z" fill="#F2BC27"/>
+    <path d="M86 40 C96 48 104 48 114 40" fill="none"/>
+    <circle cx="100" cy="76" r="12" fill="#14243B" stroke="none"/>
+    <circle cx="100" cy="76" r="7" fill="#F7E3A1" stroke="none"/>
+  </g>
+</svg>
